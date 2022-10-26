@@ -4,7 +4,7 @@
 http://pythontutor.com/visualize.html#mode=edit
 repositories
 
-    All algorithms implemented in Python By: The Algorithms https://lnkd.in/guaDFtA
+    [All algorithms implemented in Python By: The Algorithms](https://lnkd.in/guaDFtA)
 
     30-Days-Of-Python By: Asabeneh Yetayeh https://lnkd.in/gJuJDuw
 
